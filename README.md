@@ -77,8 +77,8 @@ Throughout my career, I've developed and managed dozens of **e-commerce, educati
 - 🎓 **Postgraduate Degree in Artificial Intelligence** *(ongoing)*
 - 🎓 **Postgraduate Degree in Software Engineering**
 - 🎓 **Bachelor's Degree in Software Engineering** *(ongoing)*
-- 🎓 **Bachelor's Degree in Software Analysis and Development**
 - 🎓 **Bachelor's Degree in International Relations**
+- 🎓 **Associate's Degree in Software Analysis and Development**
 - 🎓 **Technical Degree in Informatics**
 
 ---
@@ -106,7 +106,7 @@ Throughout my career, I've developed and managed dozens of **e-commerce, educati
 
 [![LinkedIn](https://img.shields.io/badge/-Lucas_Seixas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felipe-cassol-seixas/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
-[![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasseixas@outlook.com)
+[![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
 
 ---
 
