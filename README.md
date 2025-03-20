@@ -94,7 +94,7 @@ Throughout my career, I've developed and managed dozens of **e-commerce, educati
 
 ### 🎲 Fun Facts & Personal Interests
 
-- 🎸 I'm passionate about music but I do not play any instrument (unfortunately).
+- 🐶 Proud dog lover.
 - 🚀 Enthusiast of astronomy and space exploration.
 - 📚 Avid reader, especially interested in technology, history and fantasy.
 - 🌎 I love learning new languages and exploring different cultures.
