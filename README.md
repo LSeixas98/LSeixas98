@@ -29,7 +29,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ![MVC](https://img.shields.io/badge/-MVC-512BD4?style=flat&logo=.net&logoColor=white)
 ![DDD](https://img.shields.io/badge/-Domain_Driven_Design-FF5722?style=flat&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![TDD](https://img.shields.io/badge/-TDD-009639?style=flat&logoColor=white)
+![Test Driven Design](https://img.shields.io/badge/-TDD-009639?style=flat&logoColor=white)
 ![SOLID](https://img.shields.io/badge/-SOLID-4EAA25?style=flat&logoColor=white)
 
 **AI & Machine Learning:**
