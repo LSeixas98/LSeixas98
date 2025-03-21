@@ -56,6 +56,8 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSeixas98&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🤖 Interests in AI & ML
