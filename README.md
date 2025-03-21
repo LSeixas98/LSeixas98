@@ -29,6 +29,8 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ![MVC](https://img.shields.io/badge/-MVC-512BD4?style=flat&logo=.net&logoColor=white)
 ![DDD](https://img.shields.io/badge/-Domain_Driven_Design-FF5722?style=flat&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-009639?style=flat&logoColor=white)
+![SOLID](https://img.shields.io/badge/-SOLID-4EAA25?style=flat&logoColor=white)
 
 **AI & Machine Learning:**
 
@@ -50,6 +52,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
