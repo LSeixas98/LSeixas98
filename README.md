@@ -1,9 +1,8 @@
 # Hi there, I'm Lucas Seixas! 👋
 
-**Senior Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer**
+**Tech Lead | Senior Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer**
 
-I'm a software developer from Brazil, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, 
-I've built, managed, documented, and prototyped dozens of **e-commerce, educational, and administrative systems**, impacting thousands of users—including solutions used by more than **1.5 million** students in Paraná’s public education network.
+I'm a software developer from Brazil, studying technology for over **12 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, and administrative systems**, impacting thousands of users—including solutions used by more than **1.5 million** students in Paraná’s public education network.
 
 I'm also beginning my journey into the world of **Artificial Intelligence and Machine Learning**. My primary focus is on understanding the fundamentals of data processing, model building, and experimentation. I'm passionate about applying my strong programming background to real-world challenges through hands-on projects, competitions, and open-source collaborations.
 
