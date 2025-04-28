@@ -69,10 +69,17 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ### 🏅 Competition Achievements
 
+- 🥇 **Federal Assistance Award** – United States Department of State
 - 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2022*
 - 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2021*
 - 🥇 **National Champion & Global Nominee** – Canadian Space Agency International SpaceApps Challenge *2021*
 - 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2020*
+
+---
+
+### 🤝 Professional Memberships & Affiliations
+
+- 🖥️ **Sociedade Brasileira de Computação - SBC (Brazilian Computing Society)** – Associate Member
 
 ---
 
@@ -112,6 +119,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 [![LinkedIn](https://img.shields.io/badge/-Lucas_Seixas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felipe-cassol-seixas/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
 [![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0801-5384)
 
 ---
 
