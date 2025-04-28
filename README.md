@@ -129,7 +129,7 @@ If you need to cite me in international articles, use:
 [![Academia.edu](https://img.shields.io/badge/-Academia.edu-000000?style=flat&logo=academia&logoColor=white)](https://ufpr.academia.edu/LucasSeixas)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0801-5384)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lucasfelipeseixas)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://lseixas98.medium.com)
 [![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
 
 
