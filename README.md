@@ -123,4 +123,10 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ---
 
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=LSeixas98&color=blueviolet)
+
+---
+
 Feel free to explore my repositories or reach out—let’s learn and grow together in the AI/ML space! 🚀
