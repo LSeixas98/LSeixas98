@@ -95,6 +95,16 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ---
 
+### 📚 Academic Citation
+
+If you need to cite me in international articles, use:
+
+> **Seixas, L. F. C.**  
+> *(Lucas Felipe Cassol Seixas)*
+
+
+---
+
 ### 🌎 Languages
 
 - 🇧🇷 **Portuguese** – Native
@@ -117,9 +127,13 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ### 📬 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-Lucas_Seixas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-felipe-cassol-seixas/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
-[![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
+[![Lattes](https://img.shields.io/badge/-Lattes-4B0082?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/7218468873133632)
+[![Academia.edu](https://img.shields.io/badge/-Academia.edu-000000?style=flat&logo=academia&logoColor=white)](https://ufpr.academia.edu/LucasSeixas)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0801-5384)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lucasfelipeseixas)
+[![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
+
 
 ---
 
