@@ -99,7 +99,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 If you need to cite me in international articles, use:
 
-> **Seixas, Lucas Felipe Cassol**  
+> **SEIXAS, Lucas Felipe Cassol**  
 
 ---
 
