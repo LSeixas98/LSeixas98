@@ -97,7 +97,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ### 📚 Academic Citation
 
-If you need to cite me in international articles, use:
+If you need to cite me in articles, use:
 
 > **SEIXAS, Lucas Felipe Cassol**  
 
