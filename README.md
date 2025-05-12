@@ -4,6 +4,8 @@
 
 I'm a software developer from Brazil, studying technology for over **12 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, and administrative systems**, impacting thousands of users—including solutions used by more than **1.5 million** students in Paraná’s public education network.
 
+I truly care about how things are built, not just in code, but in concept. Design, to me, means shaping systems with clarity, purpose, and long-term thinking. I value well-structured logic, meaningful interfaces, and software that makes sense before a single line is written.
+
 I'm also beginning my journey into the world of **Artificial Intelligence and Machine Learning**. My primary focus is on understanding the fundamentals of data processing, model building, and experimentation. I'm passionate about applying my strong programming background to real-world challenges through hands-on projects, competitions, and open-source collaborations.
 
 ---
@@ -128,10 +130,10 @@ If you need to cite me in articles, use:
 [![Lattes](https://img.shields.io/badge/-Lattes-4B0082?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/7218468873133632)
 [![Academia.edu](https://img.shields.io/badge/-Academia.edu-000000?style=flat&logo=academia&logoColor=white)](https://ufpr.academia.edu/LucasSeixas)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0801-5384)
+[![g.dev](https://img.shields.io/badge/-g.dev-4285F4?style=flat&logo=google&logoColor=white)](http://g.dev/LSeixas)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/lseixas98)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://lseixas98.medium.com)
 [![Email](https://img.shields.io/badge/-lucasseixas@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:lucasseixas@outlook.com)
-
 
 ---
 
