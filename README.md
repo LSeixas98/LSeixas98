@@ -2,7 +2,7 @@
 
 **Tech Lead | Senior Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer**
 
-I'm a software developer from Brazil, studying technology for over **12 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, and administrative systems**, impacting thousands of users—including solutions used by more than **1.5 million** students in Paraná’s public education network.
+I'm a software developer from Brazil, studying technology for over **12 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, content management systems and administrative systems**, impacting thousands of users—including solutions used by more than **1.5 million** students in Paraná’s public education network.
 
 I truly care about how things are built, not just in code, but in concept. Design, to me, means shaping systems with clarity, purpose, and long-term thinking. I value well-structured logic, meaningful interfaces, and software that makes sense before a single line is written.
 
