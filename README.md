@@ -60,6 +60,16 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ---
 
+### 🏅 Achievements
+
+- 🥇 **Federal Assistance Award** – United States Department of State
+- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2022*
+- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2021*
+- 🥇 **National Champion & Global Nominee** – Canadian Space Agency International SpaceApps Challenge *2021*
+- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2020*
+
+---
+
 ### 🤖 Interests in AI & ML
 
 - Machine Learning & Predictive Models
@@ -67,16 +77,6 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 - Natural Language Processing (NLP)
 - Computer Vision
 - Intelligent Systems & Data Analysis
-
----
-
-### 🏅 Competition Achievements
-
-- 🥇 **Federal Assistance Award** – United States Department of State
-- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2022*
-- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2021*
-- 🥇 **National Champion & Global Nominee** – Canadian Space Agency International SpaceApps Challenge *2021*
-- 🥇 **Overall Champion & Global Nominee** – NASA International SpaceApps Challenge *2020*
 
 ---
 
