@@ -27,6 +27,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 **.NET Ecosystem & Architectures:**
 
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Razor](https://img.shields.io/badge/-Razor-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-68217A?style=flat&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-512BD4?style=flat&logo=.net&logoColor=white)
 ![DDD](https://img.shields.io/badge/-Domain_Driven_Design-FF5722?style=flat&logoColor=white)
