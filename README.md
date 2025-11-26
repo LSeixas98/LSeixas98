@@ -90,7 +90,7 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 ### 🎓 Education
 
 - 🎓 **MBA in International Business**
-- 🎓 **Postgraduate Degree in Artificial Intelligence** *(ongoing)*
+- 🎓 **Postgraduate Degree in Artificial Intelligence**
 - 🎓 **Postgraduate Degree in Software Engineering**
 - 🎓 **Bachelor's Degree in Software Engineering** *(ongoing)*
 - 🎓 **Bachelor's Degree in International Relations**
