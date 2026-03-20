@@ -1,12 +1,12 @@
 # Hi there, I'm Lucas Seixas! 👋
 
-**Tech Lead | Senior Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer**
+**Tech Lead & Senior Software Engineer | Large-Scale Systems | Applied AI & Machine Learning**
 
-I'm a software developer from Brazil, studying technology for over **12 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, content management systems and administrative systems**, impacting thousands of users—including solutions used by more than **1 million** students in Paraná’s public education network resulting in **monthly public savings exceeding 5 million BRL**.
+I'm a software developer from Brazil, studying technology for over **13 years**, with extensive experience in both front-end and back-end development, as well as documentation and prototyping of solutions. Throughout my career, I've built, managed, documented, and prototyped dozens of **e-commerce, educational, content management systems and administrative systems**, impacting thousands of users—including solutions used by more than **1 million** students in Paraná’s public education network resulting in **monthly public savings exceeding 7 million BRL** (~US$1.3M).
 
 I truly care about how things are built, not just in code, but in concept. Design, to me, means shaping systems with clarity, purpose, and long-term thinking. I value well-structured logic, meaningful interfaces, and software that makes sense before a single line is written.
 
-I'm also beginning my journey into the world of **Artificial Intelligence and Machine Learning**. My primary focus is on understanding the fundamentals of data processing, model building, and experimentation. I'm passionate about applying my strong programming background to real-world challenges through hands-on projects, competitions, and open-source collaborations.
+I’m currently expanding my work into Artificial Intelligence and Machine Learning, with a strong focus on applied fundamentals, data processing, model development, and experimentation. I'm passionate about applying my strong programming background to real-world challenges through hands-on projects, competitions, and open-source collaborations.
 
 ---
 
@@ -89,11 +89,9 @@ I'm also beginning my journey into the world of **Artificial Intelligence and Ma
 
 ### 🎓 Education
 
-- 🎓 **MBA in International Business**
 - 🎓 **Postgraduate Degree in Artificial Intelligence**
 - 🎓 **Postgraduate Degree in Software Engineering**
-- 🎓 **Bachelor's Degree in Software Engineering** *(ongoing)*
-- 🎓 **Bachelor's Degree in International Relations**
+- 🎓 **Bachelor's Degree in Software Engineering**
 - 🎓 **Associate's Degree in Software Analysis and Development**
 - 🎓 **Technical Degree in Informatics**
 
