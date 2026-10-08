@@ -83,6 +83,7 @@ I’m currently expanding my work into Artificial Intelligence and Machine Learn
 
 ### 🤝 Professional Memberships & Affiliations
 
+- 🏛️ **Conselho Regional de Engenharia e Agronomia do Paraná - CREA-PR (Regional Council of Engineering and Agronomy)** – Registered Professional, Software Engineering
 - 🖥️ **Sociedade Brasileira de Computação - SBC (Brazilian Computing Society)** – Associate Member
 
 ---
